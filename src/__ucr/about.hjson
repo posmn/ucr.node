@@ -1,0 +1,10 @@
+{
+    "Description": '''
+Ultra Clear masternode'''
+    Links: [
+        { 
+            website: "https://ucrcoin.net/",
+            explorer: "https://explorer.decenomy.net/UCR/blocks"
+        }
+    ]
+}
